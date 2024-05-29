@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Ryan Liu",
     "description": "A PWA for Lab 8",
-    "start_url": "./",
+    "start_url": "./Lab8-Starter",
     "display": "standalone",
     "background_color": "azure",
     "theme_color": "azure",
